@@ -25,5 +25,9 @@ theBody = tbody []
 theTable : Html
 theTable = table [class "table"] [ theHead, theBody ]
 
+-- | Actually get external CSS to load.
+css : String -> Html
+css path = node "link" [ rel "stylesheet", href path ] []
+
 main : Html
-main = theTable
+main = div [] [ css "assets/css/bootstrap.min.css", theTable ]
