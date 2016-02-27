@@ -22,6 +22,7 @@ reviews : LL.LazyList Review
 reviews = LL.fromList
           [ onWriting
           , associate
+          , timeRush
           , stormFront
           , foolMoon
           , gravePeril
@@ -38,6 +39,23 @@ associate = Review "The Associate" "2011?" "John Grisham"
 
 My first Grisham. Pretty interesting, had me caring what happened to the
 lead character the whole time.
+
+"""
+
+timeRush : Review
+timeRush = Review "タイム・ラッシュ" "2011?" "神永学"
+           <| M.toHtml """
+
+主人公はあまり好きじゃなかった。書き方もまた、八雲みたいに微妙。
+
+"""
+
+daemon : Review
+daemon = Review "Daemon" "2011?" "Daniel Suarez"
+         <| M.toHtml """
+
+Amazing. I AM the target audience. I love all the characters, including the
+villains. This is definitely one of my favourite books!
 
 """
 
