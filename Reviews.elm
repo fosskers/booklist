@@ -23,6 +23,8 @@ reviews = LL.fromList
           [ onWriting
           , associate
           , timeRush
+          , daemon
+          , kokuhaku
           , stormFront
           , foolMoon
           , gravePeril
@@ -58,6 +60,10 @@ Amazing. I AM the target audience. I love all the characters, including the
 villains. This is definitely one of my favourite books!
 
 """
+
+kokuhaku : Review
+kokuhaku = Review "告白" "2011?" "湊かなえ"
+           <| text "すごすぎる。一番好きな日本語の本。"
 
 stormFront : Review
 stormFront = Review "Storm Front" "2015 Dec 20" "Jim Butcher"
