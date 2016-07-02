@@ -42,6 +42,9 @@ reviews = LL.fromList
           , foolMoon
           , gravePeril
           , summerKnight
+          , deathMasks
+          , bloodRites
+          , dracula
           ]
 
 onWriting : Review
@@ -294,5 +297,67 @@ The twist worked on me; I didn't think the culprit would be Aurora.
 
 As the series progresses, things are getting gradually more fantastical.
 This book ending with a mass-Faerie battle in the sky is evidence of that.
+
+"""
+
+deathMasks : Review
+deathMasks = Review "Death Masks" "2016 Mar 18" "Jim Butcher"
+             <| M.toHtml """
+
+This one wasted no time getting started. Little was resolved, but a new
+major character/group was introduced. I imagine they'll be in play for some
+time.
+
+Death Masks was more consistently thrilling than *Summer Knight*. I think
+the title is referring to Shiro, his terminal condition and fate to die.
+
+"""
+
+bloodRites : Review
+bloodRites = Review "Blood Rites" "" "Jim Butcher"
+             <| M.toHtml """
+
+It seems like all I've been reading is Jum Butcher. The stories are good,
+I have to give him that. Dresden himself is an odd creature, and I don't
+know if he is a reflection of Butcher himself. I wouldn't be surprised
+if that were the case. 
+
+Dresden fancies himself 'old fashioned' regarding women, which he is
+chastised for. Yet he is completely subservient to them. He admits
+himself that he can't refuse a pretty face, and over the course of the
+books it's lead him into trouble more than once. He is now making
+obvious his attraction to Karrin, but she, surprise surprise, falls for
+the bad-boy alpha male (Kincaid). Perhaps then Butcher is aware of that gender
+dynamic, as he didn't just throw Karrin at Dresden's feet for saving her
+umpteen times.
+
+Dresden is odd, because he's closer to the beta end of the spectrum
+mentally, while still fearlessly kicking ass like an alpha. This seems to me
+like a beta fantasy, but I don't know enough about Jim Butcher himself to
+make a call as to whether Dresden is a reflection of him. Perhaps I should
+just stop judging the book for its author, and just accept the message
+as-is.
+
+"""
+   
+dracula : Review
+dracula = Review "Dracula" "2016 Apr 25" "Bram Stoker"
+          <| M.toHtml """
+
+What a drawing book. I could hardly put this down the entire time I was
+reading it. I feels like a lengthy novel, but it's hard to tell as I read it
+on my Kindle. Even so, I completed it in a week or two.
+
+What a thrill. Somehow I was surprised that an 'old' book could be so
+enticing and well written. Why should the present day have a monopoly on
+'good literature'? I felt terror for Jonathan Harker as he toiled through
+Castle Dracula, sadness at the party's failure to protect Lucy, and tension
+toward their pursuit of Dracula through both England and wilder Europe.
+
+Nearing the end I felt no surity that good would prevail and Dracula would
+be slain. I can attribute this to the wealth of Dracula lore that has
+followed this book. Is Dracula truly dead? The book would have us believe
+so, as Dracula crumbled to dust and Mina was freed from her curse. Games
+like Castlevania would argue otherwise. I will do more research.
 
 """
