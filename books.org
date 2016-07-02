@@ -1,141 +1,109 @@
-module Reviews (..) where
+* Books
 
-import Html exposing (..)
-import Lazy.List as LL
-import Markdown as M
+** To Read
 
----
+*** Hamlet
 
-type Review = Review String String String Html
+*** Quran
 
--- | Convert a `Review` to an HTML table row.
-revToRow : number -> Review -> Html
-revToRow n (Review name date author thoughts) =
-  tr [] [ th [] [ text <| toString n ]
-        , th [] [ text name ]
-        , th [] [ text date ]
-        , th [] [ text author ]
-        , th [] [ thoughts ]
-        ]
-            
-reviews : LL.LazyList Review
-reviews = LL.fromList
-          [ onWriting
-          , associate
-          , timeRush
-          , daemon
-          , kokuhaku
-          , hobbit
-          , faithOTF
-          , dyingEye
-          , debtOfBones
-          , empireOTE
-          , freedom
-          , eyeOTW
-          , code
-          , greatHunt
-          , beyondReligion
-          , bunshin
-          , lying
-          , whenParents
-          , stormFront
-          , foolMoon
-          , gravePeril
-          , summerKnight
-          , deathMasks
-          , bloodRites
-          , dracula
-          ]
+*** The Subtle Knife
 
-onWriting : Review
-onWriting = Review "On Writing" "2011?" "Stephen King"
-            <| text "本が書きたくなった。"
+*** Game of Thrones
 
-associate : Review
-associate = Review "The Associate" "2011?" "John Grisham"
-            <| M.toHtml """
+*** Something Japanese
+
+** Reviews
+
+*** 2011 [12/12]
+
+**** DONE On Writing
+
+2011 sometime
+Stephen King
+
+本が書きたくなった。
+
+**** DONE The Associate
+
+2011 sometime
+John Grisham
 
 My first Grisham. Pretty interesting, had me caring what happened to the
 lead character the whole time.
 
-"""
+**** DONE タイム・ラッシュ
 
-timeRush : Review
-timeRush = Review "タイム・ラッシュ" "2011?" "神永学"
-           <| M.toHtml """
+2011 sometime
+神永学
 
 主人公はあまり好きじゃなかった。書き方もまた、八雲みたいに微妙。
 
-"""
+**** DONE Daemon
 
-daemon : Review
-daemon = Review "Daemon" "2011?" "Daniel Suarez"
-         <| M.toHtml """
+2011 sometime
+Daniel Suarez
 
 Amazing. I AM the target audience. I love all the characters, including the
 villains. This is definitely one of my favourite books!
 
-"""
+**** DONE 告白
 
-kokuhaku : Review
-kokuhaku = Review "告白" "2011?" "湊かなえ"
-           <| text "すごすぎる。一番好きな日本語の本。"
+2011 sometime
+湊かなえ
 
-hobbit : Review
-hobbit = Review "The Hobbit" "2011 May 22" "J.R.R. Tolkien"
-         <| M.toHtml """
+すごすぎる。一番好きな日本語の本。
+
+**** DONE The Hobbit
+
+2011 May 22
+J.R.R. Tolkien
 
 A classic! Read again for the first time in years. Had many parts I didn't
 remember. Tolkien utilized scale very well. Things started off quite simple,
 but ended in war and the salvation of a great area and a great many people.
 
-"""
+**** DONE Faith of the Fallen
 
-faithOTF : Review
-faithOTF = Review "Faith of the Fallen" "2011 July 25" "Terry Goodkind"
-           <| M.toHtml """
+2011 July 25
+Terry Goodkind
 
 My favourite book, read for the 3rd(?) time. Awesome morality booster. Life
 rocks. People can do anything, and religion can only impede that. I was able
 to image many of the scenes in my head with more detail than before. My
 reading has improved.
 
-"""
+**** DONE Dying Eye
 
-dyingEye : Review
-dyingEye = Review "Dying Eye" "2011 Aug 4" "東野圭吾"
-           <| M.toHtml """
+2011 Aug 4
+東野圭吾
 
 途中は楽しかったが、最初と最後は少しがっかり。特に最後で、あんな何でも有り得
 そうな話を作ったのに、なぜその終わり方を選んだか分からない。自分だったらおそ
 らく違う結末にしたと思う。衝撃の面で告白に及ばない。
 
-"""
+**** DONE Debt of Bones
 
-debtOfBones : Review
-debtOfBones = Review "Debt of Bones" "2011 Aug 18" "Terry Goodkind"
-              <| M.toHtml """
+2011 Aug 18
+Terry Goodkind
 
 An interesting view into Zedd's past! We really get an idea of how powerful
 and influential he was during his day. Completely different, and yet somehow
 the same as the character that we see in the normal series.
 
-"""
+**** DONE Empire of the East
 
-empireOTE : Review
-empireOTE = Review "Empire of the East" "2011 Sept 10" "Fred Saberhagen"
-            <| M.toHtml """
+2011 Sept 10
+Fred Saberhagen
 
 Great read, although it was a bit hard to get into at first. Cool blend of
 technology and magic. Something else that always impresses me also appeared
 in this book: scale. The scale of the story increases to great effect as the
 plot progresses.
 
-"""
+**** DONE Freedom (TM)
 
-freedom : Review
-freedom = Review "Freedom (TM)" "2011 Sept 19" "Daniel Suarez"
-          <| M.toHtml """
+2011 Sept 19
+Daniel Suarez
 
 New world order... a part of me really thinks this needs to happen. I loved
 the whole book, and everything panned out pretty well. Loki was brought down
@@ -148,21 +116,21 @@ just about Sebeck... I feel like there was so much more I wanted to know
 about the other characters that we didn't get full closure from. Still,
 great book.
 
-"""
+**** DONE Eye of the World
 
-eyeOTW : Review
-eyeOTW = Review "Eye of the World" "2011 November" "Robert Jordan"
-         <| M.toHtml """
+2011 November
+Robert Jordan
 
 Epic... again, with scale! Starts small, gets huge! We really get to see the
 characters grow. Also, the author is very skilled at making esoteric
 language cool, and not dorky.
 
-"""
+*** 2012 [7/7]
 
-code : Review
-code = Review "CODE" "2012 Jan 9" "Charles Petzold"
-       <| M.toHtml """
+**** DONE CODE
+
+2012 Jan 9
+Charles Petzold
 
 A great book about all things Code. And not just computer code... this book
 offered a great glance into the past of man's struggle with representing
@@ -173,11 +141,10 @@ sort of “Oh, so we're done then” ending. The last paragraph brought
 everything back around full circle, but I felt there needed to be a more
 fleshed out conclusion.
 
-"""
+**** DONE The Great Hunt
 
-greatHunt : Review
-greatHunt = Review "The Great Hunt" "2012 Jan 11" "Robert Jordan"
-            <| M.toHtml """
+2012 Jan 11
+Robert Jordan
 
 Another great book. The characters have come a long way. I was quite
 satisfied with the epic scene (blowing of the horn, riding with the fallen
@@ -185,12 +152,10 @@ heroes, battle with the Dark One) that came near to the end, by the same
 formula of the first book. Of the girls, I like Min. Perrin also didn't get
 enough spotlight, I felt.
 
-"""
+**** DONE Beyond Religion: Ethics for a Whole World
 
-beyondReligion : Review
-beyondReligion = Review "Beyond Religion: Ethics for a Whole World"
-                 "2012 Feb 7" "Dalai Lama"
-                 <| M.toHtml """
+2012 Feb 7
+Dalai Lama
 
 Great. Just the book I needed. I've started meditation practice and it's
 really interesting to start thinking about my thoughts and emotions more. Up
@@ -198,11 +163,10 @@ until the 11th chapter, however, there were several parts that felt very
 “light” in that the Dalai Lama would say “We should strive to <insert
 profound thing here>” as if it were a simple task.
 
-"""
+**** DONE 分身
 
-bunshin : Review
-bunshin = Review "分身" "2012 June 6" "東野圭吾"
-          <| M.toHtml """
+2012 June 6
+東野圭吾
 
 読むのにかなり時間がかかった。それは本が長かったせいではなく、ただ俺は最近ま
 であまり本という物を手にしていなかったからだ。「分身」は読みやすかった。ただ
@@ -212,11 +176,10 @@ bunshin = Review "分身" "2012 June 6" "東野圭吾"
 かった。そして二人をほぼ最初から支えていた下条さんと脇坂講介はさらりと切り捨
 てられた始末。
 
-"""
+**** DONE LYING
 
-lying : Review
-lying = Review "LYING" "2012 Aug 3" "Sam Harris"
-        <| M.toHtml """
+2012 Aug 3
+Sam Harris
 
 A short book on lying. More of an essay, really. It taught me that to lie,
 white lies included, is to deny others reality. It is a refusal to further
@@ -229,21 +192,20 @@ Telling the truth doesn't mean you have to be blunt and rude all the time,
 it just means you have to be wise with your words. “Truth” can mean many
 things.
 
-"""
+**** DONE When Parents Text
 
-whenParents : Review
-whenParents = Review "When Parents Text" "08/14/2012" "?"
-              <| M.toHtml """
+2012 Aug 14
 
 Gift from my sisters. Quite funny. Laughed out loud a number of times. Was a
 good eye-opener to the world of parent-child relationships through
 technology.
 
-"""
+*** 2015 [/]
 
-stormFront : Review
-stormFront = Review "Storm Front" "2015 Dec 20" "Jim Butcher"
-             <| M.toHtml """
+**** DONE Storm Front
+
+2015 Dec 20
+Jim Butcher
 
 A fun mystery told in first-person. Other than being a wizard, Harry seems
 like a normal guy. The book itself was really easy to read, and actually
@@ -254,11 +216,12 @@ all at once. It felt like he was rushing to make his protagonist seem deep
 and complicated. I thought this way in particular when He Who Walks Behind
 was brought up in the police station.
 
-"""
+*** 2016 [/]
 
-foolMoon : Review
-foolMoon = Review "Fool Moon" "2016 Jan 1" "Jim Butcher"
-           <| M.toHtml """
+**** DONE Fool Moon
+
+2016 Jan 1
+Jim Butcher
 
 Much more action packed than the first book. I liked how in depth he went
 with the various werewolf types.
@@ -266,26 +229,23 @@ with the various werewolf types.
 Near the end there was very much a feeling of 'There is no way he is getting
 out of this alive.'
 
-"""
+**** DONE Grave Peril
 
-
-gravePeril : Review
-gravePeril = Review "Grave Peril" "2016 Feb 9" "Jim Butcher"
-             <| M.toHtml """
+2016 Feb 9
+Jim Butcher
 
 This was my favourite so far. There was very much a sense of dread
 throughout the book. The interactions with the vampire court, the Nightmare
 and Harry were fascinating. I felt as ignorant of the truth as Harry did,
 and was surprised when the truth was revealed. Harry also showed us more of
-what he was capable of magically.y
+what he was capable of magically.
 
 Great, satisfying, if not sad, ending.
 
-"""
+**** DONE Summer Knight
 
-summerKnight : Review
-summerKnight = Review "Summer Knight" "2016 Feb 17" "Jim Butcher"
-               <| M.toHtml """
+2016 Feb 17
+Jim Butcher
 
 Didn't live up to the hype as The-Best-in-the-Series, and the tone was
 somehow lighter than Grave Peril. Still, I enjoyed it. The book gave us a
@@ -298,11 +258,10 @@ The twist worked on me; I didn't think the culprit would be Aurora.
 As the series progresses, things are getting gradually more fantastical.
 This book ending with a mass-Faerie battle in the sky is evidence of that.
 
-"""
+**** DONE Death Masks
 
-deathMasks : Review
-deathMasks = Review "Death Masks" "2016 Mar 18" "Jim Butcher"
-             <| M.toHtml """
+2016 Mar 18
+Jim Butcher
 
 This one wasted no time getting started. Little was resolved, but a new
 major character/group was introduced. I imagine they'll be in play for some
@@ -311,16 +270,15 @@ time.
 Death Masks was more consistently thrilling than *Summer Knight*. I think
 the title is referring to Shiro, his terminal condition and fate to die.
 
-"""
+**** DONE Blood Rites
 
-bloodRites : Review
-bloodRites = Review "Blood Rites" "" "Jim Butcher"
-             <| M.toHtml """
+2016 Apr 8
+Jim Butcher
 
 It seems like all I've been reading is Jum Butcher. The stories are good,
 I have to give him that. Dresden himself is an odd creature, and I don't
 know if he is a reflection of Butcher himself. I wouldn't be surprised
-if that were the case. 
+if that were the case.
 
 Dresden fancies himself 'old fashioned' regarding women, which he is
 chastised for. Yet he is completely subservient to them. He admits
@@ -338,11 +296,10 @@ make a call as to whether Dresden is a reflection of him. Perhaps I should
 just stop judging the book for its author, and just accept the message
 as-is.
 
-"""
-   
-dracula : Review
-dracula = Review "Dracula" "2016 Apr 25" "Bram Stoker"
-          <| M.toHtml """
+**** DONE Dracula
+
+2016 Apr 25
+Bram Stoker
 
 What a drawing book. I could hardly put this down the entire time I was
 reading it. I feels like a lengthy novel, but it's hard to tell as I read it
@@ -360,4 +317,75 @@ followed this book. Is Dracula truly dead? The book would have us believe
 so, as Dracula crumbled to dust and Mina was freed from her curse. Games
 like Castlevania would argue otherwise. I will do more research.
 
-"""
+**** DONE The Golden Compass
+
+2016 May
+
+A kids books, and yet it isn't. There are some heavy themes and scientific
+content that I'm not convinced a child would be interested in. A fun book
+overall though. It paints a picture of a deep and complex world, without
+going into too much detail. There are sequels, so I suppose I'll find out
+more there.
+
+I started my new job this month, and saw a dip in casual reading time. I
+have no commute anymore, meaning there is no time to kill reading.
+
+**** DONE Macbeth
+
+2016 June
+
+The tragedy. The last time I read this was in high school, and I quite
+enjoyed going over it again. I've always enjoyed Shakespeare, probably
+something to do with my fascination for languages.
+
+Shakespeare has been analysed to death over the centuries, so I doubt I have
+much to add. That said, here are some avenues of thought:
+
+Did Macbeth really want to kill Duncan?
+Was Duncan a good king?
+How long did Macbeth rule?
+Why did the Macbeths assume that Duncan's murder was the only way to fulfill the prophecy?
+
+I compared this to the movie To Kill a Man, where Carmen's thought was that
+the main character "didn't follow through" with his decision. Yes he killed
+the guy, but he didn't own the decision, and eventually his guilt tore him
+apart. Macbeth on the other hand owns his decision too much, and kills
+everything he even remotely considers a threat to his rule. Had he just
+ended his murders with Duncan, it's likely that everything would have been
+fine.
+
+A week or two after finishing, Carmen and I watched the 2015 movie version
+of Macbeth. It was decent, using mostly Scottish actors and locations. They
+had to cut out quite a lot of content, but the story remained in tact.
+Without my priming Carmen of the plot, she probably would have had trouble
+following the film.
+
+**** DONE The End of Eternity
+
+2016 June 24
+Isaac Asimov
+
+Read on Carmen's recommendation. This is a good book up until the last
+chapter of the book. With the last chapter, it's an /amazing/ book. This is
+easily in my top 5 of books, and definitely deserves a place on the
+bookshelf.
+
+The main character Harlan is extremely flawed. Perhaps too much so,
+especially given the calm-and-calculating image he presents to us from the
+beginning. Despite him saying how subtle he needed to be with his plans, he
+was always the first to lose his patience and temper and blurt out whatever
+he was thinking. Often, comically, he was wrong. When he /was/ right, it
+seems like those conclusions had been given to him by external forces
+without his realizing. This leads to the idea that Harlan never had agency
+over his actions until the very end, where he himself made the final
+decision to spare Noys and thus destroy Eternity. That single autonomous
+action of his was enough, in my mind, to solidify his role as the
+protagonist and hero.
+
+I liked Asimov's version of time travel in this book. It very much supported
+my idea that there are entire realms of scientific possibility out there,
+but we aren't aware of them because we haven't yet made some critial
+discovery about the universe. Then, having discovered it, we look back and
+think: how did humanity ever get by without knowing about this?
+
+My comment upon finishing: "It's us."
