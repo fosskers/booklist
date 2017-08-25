@@ -2,8 +2,6 @@
 
 ** To Read
 
-*** Hamlet
-
 *** Quran
 
 *** The Infidel's Guide to the Quran
@@ -17,20 +15,13 @@
 
 *** Gilgamesh
 
-*** Animal Farm
-
 *** The Odyssey
-
-*** The Three-body Problem
 
 *** Hyperion
 
 *** A Fire Upon the Deep
 
-*** Dragon's Egg
-
-*** Harry Potter und der Stein der Weisen
-
+*** Seveneves
 ** Reviews
 
 *** 2011 [12/12]
@@ -484,9 +475,9 @@ all at once. It felt like he was rushing to make his protagonist seem deep
 and complicated. I thought this way in particular when He Who Walks Behind
 was brought up in the police station.
 
-*** 2016 [9/9]
+*** 2016 [12/12]
 
-**** Fool Moon
+**** DONE Fool Moon
 
 2016 Jan 1
 Jim Butcher
@@ -497,7 +488,7 @@ with the various werewolf types.
 Near the end there was very much a feeling of 'There is no way he is getting
 out of this alive.'
 
-**** Grave Peril
+**** DONE Grave Peril
 
 2016 Feb 9
 Jim Butcher
@@ -510,7 +501,7 @@ what he was capable of magically.
 
 Great, satisfying, if not sad, ending.
 
-**** Summer Knight
+**** DONE Summer Knight
 
 2016 Feb 17
 Jim Butcher
@@ -526,7 +517,7 @@ The twist worked on me; I didn't think the culprit would be Aurora.
 As the series progresses, things are getting gradually more fantastical.
 This book ending with a mass-Faerie battle in the sky is evidence of that.
 
-**** Death Masks
+**** DONE Death Masks
 
 2016 Mar 18
 Jim Butcher
@@ -538,7 +529,7 @@ time.
 Death Masks was more consistently thrilling than *Summer Knight*. I think
 the title is referring to Shiro, his terminal condition and fate to die.
 
-**** Blood Rites
+**** DONE Blood Rites
 
 2016 Apr 8
 Jim Butcher
@@ -564,7 +555,7 @@ make a call as to whether Dresden is a reflection of him. Perhaps I should
 just stop judging the book for its author, and just accept the message
 as-is.
 
-**** Dracula
+**** DONE Dracula
 
 2016 Apr 25
 Bram Stoker
@@ -585,7 +576,7 @@ followed this book. Is Dracula truly dead? The book would have us believe
 so, as Dracula crumbled to dust and Mina was freed from her curse. Games
 like Castlevania would argue otherwise. I will do more research.
 
-**** The Golden Compass
+**** DONE The Golden Compass
 
 2016 May
 
@@ -598,7 +589,7 @@ more there.
 I started my new job this month, and saw a dip in casual reading time. I
 have no commute anymore, meaning there is no time to kill reading.
 
-**** Macbeth
+**** DONE Macbeth
 
 2016 June
 
@@ -628,7 +619,7 @@ had to cut out quite a lot of content, but the story remained in tact.
 Without my priming Carmen of the plot, she probably would have had trouble
 following the film.
 
-**** The End of Eternity
+**** DONE The End of Eternity
 
 2016 June 24
 Isaac Asimov
@@ -658,7 +649,7 @@ think: how did humanity ever get by without knowing about this?
 
 My comment upon finishing: "It's us."
 
-**** Dead Beat
+**** DONE Dead Beat
 
 2016 July 15
 Jim Butcher
@@ -666,7 +657,7 @@ Jim Butcher
 His longest so far, and another exciting, easy read. The ending was really
 entertaining, and I'm enjoying where the overall story is headed.
 
-**** The Da Vinci Code
+**** DONE The Da Vinci Code
 
 2016 July 21
 Dan Brown
@@ -704,3 +695,86 @@ Priory from their own barn without direction. It didn't make sense that
 Fache would even know where to start in that search.
 - Teabing's lengthy absence in the back of the plane with Remy and Silas.
 - Remy's desperation in taking Teabing "hostage".
+
+**** DONE 北斗の拳
+
+2016 November
+
+I had forgotten a lot of the plot, so this was a good reread. This time I
+actually read ahead past the time skip, but since I'm missing the last few
+volumes I don't know how it ends.
+
+*** 2017 [6/6]
+
+**** DONE Animal Farm
+
+2017 January 0x
+George Orwell
+
+I read this in tandem with some general research into the history of
+Communism. My conclusions so far are that Communism is never possible if run
+by human beings. A corallary is that the road to Communism via a
+Dictatorship of the Proliterat will always devolve into something distopian.
+
+**** DONE The Three Body Problem
+
+2017 January 17
+Cixin Liu
+
+Amazing first-contact story that also served as a good window into how
+Communism (particularly the Cultural Revolution) in China affected normal
+people.
+
+**** DONE Barbarians
+
+2017 January 19
+Lauren Southern
+
+While her points aren't particularly well-argued, her claims are generally
+correct.
+
+**** DONE Dragon's Egg
+
+2017 April ??
+Robert L. Forward
+
+A great book! Most of all, it made me consider the how different life forms
+might live at different "speeds". Perhaps cats perceive humans as being
+these slow, lumbering creatures?
+
+**** DONE Cosmos
+
+2017 June 11
+Carl Sagan
+
+It felt like a accurate description of how the world would react to proof of
+contact from an alien race. Kitz's aggressive skepticism at the end was
+interesting, but the image found in pi was profound on a level that reminded
+me of End of Eternity.
+
+The movie (which I watched afterward on the same day) was a faithful
+adaptation. Things were changes of course, but they were done tastefully.
+
+**** DONE Hamlet
+     CLOSED: [2017-08-25 Fri 15:33]
+
+2017 June 26
+William Shakespeare
+
+I need to think more on this.
+
+**** DONE The Wise Man's Fear
+
+2017 August 24
+Patrick Rothfuss
+
+I couldn't put this book down until I finished all 1100 pages of it.
+Since I had read the first book so long ago (first half of 2015?) it was
+tricky at first to reimmerse myself in the world, but I soon got over that.
+
+This was a great continuation of the story. It's heartbreaking to see modern-day Kvothe
+as defeated as he is. My favourite section overall involved Kvothe's time with the
+Ademre - Rothfuss was able to portray a different culture very convincingly.
+The language mistakes that the Ademre made when speaking Aturan were largely
+believable. I enjoyed most learning about the Lethani, the philosophy that grounds
+their culture. North American culture would benefit from some Lethani, I think.
