@@ -1,3 +1,7 @@
+#+TITLE: My Book List
+#+AUTHOR: Colin
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/colin/code/org-theme.css"/>
+
 * Books
 
 ** To Read
@@ -704,7 +708,7 @@ I had forgotten a lot of the plot, so this was a good reread. This time I
 actually read ahead past the time skip, but since I'm missing the last few
 volumes I don't know how it ends.
 
-*** 2017 [10/11]
+*** 2017 [12/13]
 
 **** DONE Animal Farm
 
@@ -855,6 +859,8 @@ feeding off her.
 
 Some other discrepancies:
 
+- Many more towns were mentioned, not just the three (and Berez) that we
+  can visit in Curse of Strahd.
 - Strahd's mother was long dead - she didn't die on the trip to Barovia.
 - Rahadin (or any Dusk Elf) was not mentioned. Alek filled that roll.
 - No mention of the Order of the Silver Dragon.
@@ -863,3 +869,35 @@ Some other discrepancies:
 
 The books ends with Strahd sitting down to eagerly write more. What
 could have happened? I suppose that's my choice now.
+**** DONE The Dark Forest
+
+2017 December 21
+Cixin Liu
+*** 2018 [3/3]
+
+**** DONE The Dark Forest
+**** DONE Death's End
+**** DONE SPQR
+
+2018 December 29
+Mary Beard
+
+Before this book, I knew basically nothing about Rome. Now, I at least have an
+appreciation for its overall history, and knowledge into the origins of modern
+day Europe. The Romans had many of the same problems that we have, and they did
+their best to solve them. Over time they moved to one-man-rule, and then
+strangely, never wanted to move back. This allowed for a certain bureaucratic
+efficiency, so long as the ruler was "good". And by the looks of things, there
+were such "good" emperors (re: "The Five Good Emperors").
+
+The author ends her story at the end of the 2nd century CE. That's okay, even
+though Rome itself continues for much longer in one form or another. She had
+started everything in a sort of "fog of history" around 600 BCE, before which
+it's hard to say anything conclusive about Rome. What I find strange is that
+well-documented "high society" had been established long before that in other
+places, like Egypt and China. Just how many times have there been reboots like
+this? My overall impression is that humans are very resourceful, and will always
+come back around, given time.
+*** 2019 [/]
+
+**** Superintelligence
