@@ -901,3 +901,29 @@ come back around, given time.
 *** 2019 [/]
 
 **** Superintelligence
+
+2019 January 29
+Nick Bostrom
+
+Hah, an exact month after I finished SPQR!
+
+This was a heavy read. He outlines the types of super-intelligences that could
+come about, how quickly they could derive themselves, and how and why they could
+form "a singleton" (a unified system that made all major decisions for the
+world). To combat these issues, he describes "the control problem", and other
+issues involved in loading values / motivations into a software system. From a
+programmer's perspective, yes, it isn't clear to me at all how one go about
+doing that.
+
+One section in Chapter 13 stood out to me. It was that in order to "directly"
+load values into an AI, the programmer would first have to make concrete
+judgement calls on many (if not all) of the outstanding philosophical issues
+that are open in our civilization. Then, they'd have to know how to encode such
+a world-view in a machine. For one programmer - or even a team of them - to have
+such understanding and wisdom is highly doubtful to me.
+
+So AI will come, and we need to be prepared for it. Before reading, I had
+assumed that we were fairly close. Now, I'm not so sure. The Control and Value
+Loading problems are significant enough that even a few decades of thinking
+might not crack them. In the meantime, I hope Google does nothing rash, fueled
+by good intentions.
