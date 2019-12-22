@@ -26,6 +26,14 @@
 *** A Fire Upon the Deep
 
 *** Seveneves
+
+*** About Face
+
+*** Maps of Meaning
+
+*** Sex God Method
+
+*** Spare me the Roses
 ** Reviews
 
 *** 2011 [12/12]
@@ -708,7 +716,7 @@ I had forgotten a lot of the plot, so this was a good reread. This time I
 actually read ahead past the time skip, but since I'm missing the last few
 volumes I don't know how it ends.
 
-*** 2017 [12/13]
+*** 2017 [12/12]
 
 **** DONE Animal Farm
 
@@ -782,10 +790,6 @@ Ademre - Rothfuss was able to portray a different culture very convincingly.
 The language mistakes that the Ademre made when speaking Aturan were largely
 believable. I enjoyed most learning about the Lethani, the philosophy that grounds
 their culture. North American culture would benefit from some Lethani, I think.
-**** TODO Mother Tongue
-
-Bill Bryson
-
 **** DONE Vagabond
 
 Inoue Takehiko
@@ -898,9 +902,9 @@ well-documented "high society" had been established long before that in other
 places, like Egypt and China. Just how many times have there been reboots like
 this? My overall impression is that humans are very resourceful, and will always
 come back around, given time.
-*** 2019 [/]
+*** 2019 [15/15]
 
-**** Superintelligence
+**** DONE Superintelligence
 
 2019 January 29
 Nick Bostrom
@@ -927,3 +931,127 @@ assumed that we were fairly close. Now, I'm not so sure. The Control and Value
 Loading problems are significant enough that even a few decades of thinking
 might not crack them. In the meantime, I hope Google does nothing rash, fueled
 by good intentions.
+**** DONE Love Languages
+     CLOSED: [2019-04-11 Thu 15:43]
+
+2019 February 2X
+Gary Chapman
+**** DONE The Superior Man
+**** DONE 宮本武蔵
+
+２０１９年4月11日
+吉川英治
+
+時々しかこの本に手を伸ばさないため、読み終えるに半年程掛かった。感想としては、第
+一に思い浮かぶのが小説と漫画の違い。ここで全部述べないが兎に角、本の方がやや面白
+い。本でしか見つからない話の詳細や奥深い所・・・これはやはり気に入る。例えばお通
+と武蔵の関係やお琴のことや武蔵の姫路城での三年間。
+
+正直に言えば、文としては俺には少し難しかった。全く触れたことの無い日本語、漢字、
+歴史上の人物が沢山出、「ん、解らん」と飛ばした文もあった。それでも楽しめたし、話
+はちゃんと伝わった。少し間を置いて、次の編に進む。
+**** DONE Dictionary of Newfoundland and Labrador
+
+2019 August
+Ron Young
+
+A collection of Newfoundland stories and a description of their dialect.
+
+**** DONE 花の鎖
+
+２０１９年８月
+湊かなえ
+**** DONE The Vinland Sagas
+
+2019 August
+
+An English translation of the old Icelandic saga concerning the earliest
+European visits to North America. Having been to L'Anse aux Meadows just prior
+to reading this, the stories had a strange weight to them. One could feel the
+history both in the words and at those misty stores themselves.
+
+**** DONE The Silmarillion
+
+2019 August 31
+
+THINGS CAN BE GREAT
+
+**** DONE Beren and Luthien
+
+2019 September
+
+**** DONE The Rational Male
+
+2019 September 28
+
+It's time to become a Man.
+
+**** DONE The 48 Laws of Power
+
+**** DONE The Richest Man in Babylon
+
+2019 November 4
+George S. Clason
+
+Parables that really could have been from Babylon. The advice was
+straight-forward, and still sound to this day. Many would benefit from reading
+this book.
+
+**** DONE Can't Hurt Me
+     CLOSED: [2019-11-23 Sat 14:27]
+
+2019 November 23
+David Goggins
+
+If this is real, then humans are capable of a lot, both mentally and physically.
+I don't know what I'm capable of. I've never experienced my limits. Tough Mudder
+was the hardest physical thing I've done, but even then it wasn't /that/ hard
+compared to what some people have achieved. I notice now that I'm very quick to
+shut off effort as soon as things get uncomfortable. Not even pain - just
+discomfort. How am I supposed to grow that way? Nobody said that the process of
+growth would be fun or feel good.
+
+I'm not complete. Right now, I am in a growth phase. I'm building the seeds of a
+future for some future version of myself to enjoy. This guy, right now, is not
+forever. He will be gone and the true me will shine brightly.
+
+Fuck you, Goggins.
+
+**** DONE Endurance
+     CLOSED: [2019-11-29 Fri 22:43]
+
+2019 Nov 29
+Alfred Lansing
+
+I have never been cold, I have never been tired, I have never been hungry, and I
+have never been thirsty.
+
+**** DONE Extreme Ownership
+
+2019 December 21
+Jocko Willink & Leif Babin
+
+This is all about owning what you touch. If something failed, and you were in
+any non-trivial way connected to it, then it's your fault. From this point, you
+can blame nobody else. You didn't do your best. You must analyse what went wrong
+and what we all could have done better. But especially me. What could /I/ have
+done better?
+
+Nobody is going to live your life for you. Nobody but you is going to save you
+from the pain and troubles of life.
+
+The rest is about leadership and applying Extreme Ownership in that context.
+Even if you're not the boss boss, you still might be in a position to be
+somebody's leader. If no one else, then yourself. There are even opportunities
+when one has to lead /up/ the chain of command, and lead the leaders.
+
+I have historically failed to lead my women. Once together and established, I
+coast. I don't give her or us clear direction. It's important that I have
+direction for myself first. Then she is to be integrated into the parts of that
+that make sense, and that is then "the relationship". The rest is me, which must
+remain clear and unwavering in spite of the relationship.
+
+One good change I have made recently is devoting an hour a week to Life
+Planning. This used to happen sporadically. Now I have scheduled time for it,
+and it really helps. I should never stop a practice like this, even when in a
+relationship. /Especially/ when I'm in one, I need to maintain this.
