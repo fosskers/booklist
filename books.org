@@ -1055,7 +1055,7 @@ One good change I have made recently is devoting an hour a week to Life
 Planning. This used to happen sporadically. Now I have scheduled time for it,
 and it really helps. I should never stop a practice like this, even when in a
 relationship. /Especially/ when I'm in one, I need to maintain this.
-*** 2020 [4/4]
+*** 2020 [8/8]
 
 Evening reading time in 2020 has been dominated since February by Bible reading.
 So while I haven't finished many books, I have still been reading 30+ minutes
@@ -1111,3 +1111,105 @@ would have been destroyed. God bless the Floodway!
 未来の事は分からないから「コンビニに戻ってしまった」のはなく、「本来あるべき姿に
 戻った」という見方が正しい。「じゃあその先どうする？」という疑問も、果たして考えすぎ？
 それとも responsible forward thinking?
+
+**** DONE The Year of Living Biblically
+     CLOSED: [2020-10-19 Mon 10:06]
+
+A.J. Jacobs
+2020 October 19
+
+A man in a situation similar to my own decided to live by as many of the Bible's
+rules as he could, as literally as he could. I sped through this book, dying to
+know how the process had transformed him. In the end, while he still couldn't
+admit belief in the biblical God of his ancestors, he did had a deep
+appreciation for life. Many of his daily habits were also improved.
+
+He said at one point something that resonated: that he doesn't think he could
+ever be debated into believing in God. So instead he tried to "behave" his way
+into belief, based on the idea that our behaviours can shape our minds. I think
+this might be the only approach for me as well. I don't think an intellectual
+explanation of the metaphysics of any particular religion will ever convince me.
+But maybe that's okay. Maybe the metaphysics are a particular "tool", a
+"framework", similar to what C.S. Lewis mentioned. If a particular tool or way
+of thinking doesn't work for you, then drop it and move on. This creates a new
+question in my mind:
+
+#+begin_quote
+Is it possible to join a religion and be a meaningful member of it while not
+believing its metaphysics?
+#+end_quote
+
+What did I learn?
+
+I need to live more for others.
+I need to donate more of my money and my time.
+I need to be more grateful.
+I need to take life more seriously.
+I need to ground my daily life in a religion and a group.
+
+God might be watching me. If he isn't, the future of humanity is. If they
+aren't, my future family is. If they aren't, then I am.
+
+*You can't get away with anything.*
+
+**** DONE The Wim Hof Method
+     CLOSED: [2020-11-26 Thu 08:59]
+
+2020 Nov 25
+Wim Hof
+
+I appreciate the core of the method, and have been practicing it for two weeks.
+I do already see the improvements. Overall I'm calmer, more focused, food tastes
+better, and my pushup performance has improved drastically, despite less overall
+training time.
+
+It was interesting to hear about his past and how he came to be who he is. The
+latter half of the book was mostly filler, and I skimmed over much of it. The
+method itself is the core thing anyway, and Wim Hof says as much.
+
+**** DONE The Holy Bible
+     CLOSED: [2021-01-03 Sun 19:30]
+
+2020 Nov 25
+Humanity
+
+I started reading the Bible in February, and read it every day until now without
+missing a single day. I didn't dare skip. I read the whole thing out loud,
+except for two days some months ago (during Isaiah) where I had a bit of a
+bender and stayed up until 2 a.m.
+
+It feels like I have done a good thing. Of course a single reading isn't enough
+to understand the entire text (or even much of it!) but it's better than having
+never read it. There are lessons I have already added to my life, and can feel
+the change. For one thing, it no longer feels right to make fun of religion or
+Christianity. I can't call myself a Christian, but it still doesn't feel right.
+And a lot of modern society's problems seem to have a clearer cause now that
+I've read about past societies and how they degraded into chaos.
+
+**** DONE The Fellowship of the Ring
+
+*** 2021 [1/1]
+
+**** DONE The Two Towers
+     CLOSED: [2021-01-17 Sun 21:47]
+
+2021 Jan 17
+JRR Tolkien
+
+**** DONE The Fall of Gondolin
+
+2021 Feb 6
+JRR Tolkien
+
+A compilation of the 4 main versions of the Gondolin myth. The first /Tale/ is
+the only complete version, but having been written so early many of the details
+do not match the final published Silmarillion, nor does it account for the
+existence of The Lord of the Rings. I rather preferred the "Last Version" as
+Christopher Tolkien calls it. While very detailed, more so even than the
+original /Tale/, it was unfortunately abandoned as a work at the point where
+Tuor passes through the Hidden Way and first views Gondolin from account
+Tumladen.
+
+I'm glad to have read it. My fondness for Gondolin has grown much, and I'm
+excited to read The Silmarillion again to solidify more of the surrounding
+details.
