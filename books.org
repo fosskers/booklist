@@ -1188,7 +1188,7 @@ I've read about past societies and how they degraded into chaos.
 
 **** DONE The Fellowship of the Ring
 
-*** 2021 [1/1]
+*** 2021 [3/3]
 
 **** DONE The Two Towers
      CLOSED: [2021-01-17 Sun 21:47]
@@ -1197,6 +1197,7 @@ I've read about past societies and how they degraded into chaos.
 JRR Tolkien
 
 **** DONE The Fall of Gondolin
+     CLOSED: [2021-02-06 Sat 14:31]
 
 2021 Feb 6
 JRR Tolkien
@@ -1213,3 +1214,13 @@ Tumladen.
 I'm glad to have read it. My fondness for Gondolin has grown much, and I'm
 excited to read The Silmarillion again to solidify more of the surrounding
 details.
+
+**** DONE 日本史
+     CLOSED: [2021-02-10 Wed 10:21]
+
+２０２１年２月１０日
+後藤武士
+
+詳しく分かるまでまだ努力が必要だけれどこの一冊を読んだだけで日本史の全体図が分かっ
+てきた。自分の研究の中で平安時代の情報が少ないので、後に平安時代専門の本を読むと
+しよう。
