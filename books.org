@@ -1224,3 +1224,14 @@ details.
 詳しく分かるまでまだ努力が必要だけれどこの一冊を読んだだけで日本史の全体図が分かっ
 てきた。自分の研究の中で平安時代の情報が少ないので、後に平安時代専門の本を読むと
 しよう。
+
+**** DONE Return of the King
+**** DONE A Fire upon the Deep
+
+2021 Mar 10
+
+Another potential answer to the Fermi Paradox. It places Earth in the "Slow
+Zone" of the galaxy, where the speed of light is the fundamental limit of both
+travel and communication. In this setting the galaxy is like a sea, with
+different conditions (of physics) at different layers. By escaping the Slow
+Zone, a civilization can "grow up" and vastly expand their technology.
